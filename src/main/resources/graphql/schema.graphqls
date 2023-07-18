@@ -1,0 +1,7 @@
+type Query {
+    getObject: Int
+}
+
+type Mutation {
+    freeObject(obj: Int) : Boolean
+}
