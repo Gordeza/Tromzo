@@ -43,5 +43,3 @@ To run the application, execute the following command:
 ```
 mvn spring-boot:run
 ```
-
-Feel free to explore and modify the Tromzo application to meet your needs!
