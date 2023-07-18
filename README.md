@@ -20,7 +20,7 @@ To run the Tromzo application, follow these steps:
    mvn spring-boot:run
    ```
 5. The application will start running on the default port (usually 8080).
-   You can access the GraphQL API by opening your web browser and navigating to [http://localhost:8080/graphql](http://localhost:8080/graphql).
+   You can access the GraphQL API by sending graphql requests to [http://localhost:8080/graphql](http://localhost:8080/graphql).
 
 ## Dependencies
 The following dependencies are used in the Tromzo application:
